@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>HallPage.qml</file>
+        <file>resources/side_menu_icons/ic_about.png</file>
+        <file>resources/side_menu_icons/ic_gallery.png</file>
+    </qresource>
+</RCC>
